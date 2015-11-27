@@ -12,6 +12,8 @@ this.element.style.height = "4px";
 this.element.style.width = "100%";
 this.element.style.backgroundColor = this.color;
 this.element.style.transition = "width 0.3s";
+this.element.style.top = "0";
+this.element.style.left = "0";
 document.body.appendChild(this.element);
   this.changeValue=function(value){
 try{
