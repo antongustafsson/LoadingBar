@@ -5,7 +5,7 @@ The default color is #56C9F0
 
 Example:
 ```javascript
-var myLoadingBar = new LoadingBar("#Hex color");
+var myLoadingBar = new LoadingBar("#00BFFF");
 ```
 or
 ```javascript
